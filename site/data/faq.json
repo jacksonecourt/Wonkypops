@@ -1,0 +1,37 @@
+{
+  "_note": "Answers containing [PLACEHOLDER] need team confirmation before launch.",
+  "faqs": [
+    {
+      "q": "Is wonky fruit safe to eat?",
+      "a": "Yes. 'Wonky' means the fruit looks different (a funny shape, a scar on the skin, a bit too big or small). It doesn't mean it's spoiled. Fruit with mould, odd smells or real deterioration never makes it into a Wonkypop."
+    },
+    {
+      "q": "Can I order Wonkypops for home delivery?",
+      "a": "Not at the moment. Frozen treats don't travel well by post, so we don't ship to individual homes. Find us at a stockist, or send a bulk or event enquiry for parties, fetes and club days."
+    },
+    {
+      "q": "How should I store Wonkypops?",
+      "a": "Keep them frozen at -18°C or colder and don't refreeze once thawed. Shelf life: [PLACEHOLDER]. Check the best-before date on the pack."
+    },
+    {
+      "q": "What about allergens?",
+      "a": "Our recipes are just fruit, water and a squeeze of citrus, so none of our current flavours contain milk, egg, peanuts, tree nuts, soy, sesame, gluten, fish, shellfish or lupin as ingredients. Full allergen information is printed on every pack and listed on our Flavours page. If you have a severe allergy, always check the pack before eating."
+    },
+    {
+      "q": "My Wonkypops arrived melted. What do I do?",
+      "a": "Sorry about that! If you bought from a store, take your receipt back to the store. For bulk or event orders, contact us within [PLACEHOLDER] hours with your order details and a photo and we'll sort it out."
+    },
+    {
+      "q": "What's your refund policy?",
+      "a": "[PLACEHOLDER: refund policy to be confirmed.] Your rights under Australian Consumer Law always apply."
+    },
+    {
+      "q": "Is the packaging recyclable?",
+      "a": "We're committed to recyclable packaging. [PLACEHOLDER: confirm packaging material and recycling instructions, e.g. kerbside or soft plastics.]"
+    },
+    {
+      "q": "How does school or club fundraising work?",
+      "a": "You order fundraising packs, sell them at your school or club and keep a share of the profit. We supply posters and promo material, and a dedicated account manager helps you along the way. See our Partnerships page for details."
+    }
+  ]
+}

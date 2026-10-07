@@ -1,0 +1,59 @@
+{
+  "_note": "Nutrition values are indicative estimates calculated from each recipe using standard fruit composition data, for a 70 g pop. Replace with lab-tested values before launch. Allergen statements cover the recipe only; confirm factory cross-contact with the co-packer.",
+  "servingSize": 70,
+  "flavours": [
+    {
+      "slug": "mango",
+      "name": "Freckle Mango",
+      "fruitName": "Mango",
+      "blurb": "Sunny, sticky, a bit freckly. Made from mangoes too spotty for the supermarket shelf.",
+      "fruit": "Mangoes with skin marks and odd shapes",
+      "ingredients": "Rescued mango (75%), water, lemon juice.",
+      "tags": ["Real fruit", "Summer"],
+      "body": "#F2762E",
+      "top": "#FFB23F",
+      "allergens": "No major allergens in the recipe.",
+      "nutrition": { "energy": 135, "protein": 0.4, "fat": 0.2, "satFat": 0.1, "carbs": 8.1, "sugars": 7.4, "sodium": 2 }
+    },
+    {
+      "slug": "berry",
+      "name": "Bumpy Berry",
+      "fruitName": "Mixed berry",
+      "blurb": "Squished, lopsided berries that still taste like berries. Funny that.",
+      "fruit": "Undersized and misshapen strawberries, raspberries and blueberries",
+      "ingredients": "Rescued mixed berries (70%) (strawberry, raspberry, blueberry), apple juice (20%), water.",
+      "tags": ["Real fruit", "Fan favourite"],
+      "body": "#C23B5A",
+      "top": "#7A2147",
+      "allergens": "No major allergens in the recipe.",
+      "nutrition": { "energy": 114, "protein": 0.4, "fat": 0.1, "satFat": 0.0, "carbs": 6.0, "sugars": 4.8, "sodium": 1 }
+    },
+    {
+      "slug": "watermelon",
+      "name": "Wonky Watermelon",
+      "fruitName": "Watermelon & lime",
+      "blurb": "From melons that grew a little too wonky to stack. Still crunchy-sweet inside, with a squeeze of lime.",
+      "fruit": "Oversized and scarred watermelons",
+      "ingredients": "Rescued watermelon (80%), water, lime juice (5%).",
+      "tags": ["Real fruit", "Seasonal"],
+      "body": "#F0566B",
+      "top": "#3C8D4F",
+      "allergens": "No major allergens in the recipe.",
+      "nutrition": { "energy": 76, "protein": 0.3, "fat": 0.1, "satFat": 0.0, "carbs": 4.4, "sugars": 3.6, "sodium": 1 }
+    },
+    {
+      "slug": "orange-passionfruit",
+      "name": "Wrinkly Orange & Passionfruit",
+      "fruitName": "Orange & passionfruit",
+      "blurb": "Bumpy oranges and wrinkly passionfruit. The wrinklier, the tastier.",
+      "fruit": "Blemished oranges and wrinkly passionfruit",
+      "ingredients": "Rescued orange (60%), rescued passionfruit pulp (15%), water.",
+      "tags": ["Real fruit", "Seasonal"],
+      "body": "#F49A2E",
+      "top": "#6B2E5A",
+      "allergens": "No major allergens in the recipe.",
+      "nutrition": { "energy": 123, "protein": 0.6, "fat": 0.1, "satFat": 0.0, "carbs": 7.0, "sugars": 5.0, "sodium": 3 }
+    }
+  ],
+  "pollIdeas": ["Pineapple & Mint", "Strawberry", "Pear & Ginger", "Apple & Rhubarb"]
+}

@@ -1,0 +1,12 @@
+{
+  "_note": "ALL ENTRIES BELOW ARE [PLACEHOLDER] EXAMPLES. Replace with real stockists once confirmed. type must be retail, canteen or club.",
+  "stockists": [
+    { "name": "Example Independent Grocer", "suburb": "Example Suburb", "state": "NSW", "type": "retail", "example": true },
+    { "name": "Example Primary School Canteen", "suburb": "Example Suburb", "state": "NSW", "type": "canteen", "example": true },
+    { "name": "Example Surf Life Saving Club Kiosk", "suburb": "Example Beach", "state": "NSW", "type": "club", "example": true },
+    { "name": "Example Fresh Food Market", "suburb": "Example Suburb", "state": "VIC", "type": "retail", "example": true },
+    { "name": "Example Little Athletics Centre", "suburb": "Example Suburb", "state": "VIC", "type": "club", "example": true },
+    { "name": "Example Community Grocer", "suburb": "Example Suburb", "state": "QLD", "type": "retail", "example": true },
+    { "name": "Example State School Tuckshop", "suburb": "Example Suburb", "state": "QLD", "type": "canteen", "example": true }
+  ]
+}

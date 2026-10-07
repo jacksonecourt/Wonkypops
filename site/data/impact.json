@@ -1,0 +1,9 @@
+{
+  "_note": "Edit these numbers to update the impact counters site-wide. Set value to a number (e.g. 1250) once real figures exist. null shows a [PLACEHOLDER] badge.",
+  "lastUpdated": null,
+  "metrics": [
+    { "id": "fruit", "label": "kg of fruit rescued", "value": null, "suffix": "kg" },
+    { "id": "pops", "label": "icy poles enjoyed", "value": null, "suffix": "" },
+    { "id": "partners", "label": "partner schools & clubs", "value": null, "suffix": "" }
+  ]
+}
